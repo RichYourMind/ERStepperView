@@ -10,13 +10,13 @@ Requirements
 
 #### Swift Package Manager 
 1. In Xcode, open your project and navigate to File → Swift Packages → Add Package Dependency.
-2. Paste the repository URL (https://github.com/RichYourMind/Neumorphism-Label.git) and click Next.
+2. Paste the repository URL (https://github.com/RichYourMind/ERStepperView.git) and click Next.
 3. For Rules, select version.
 4. Click Finish.
 
 #### Swift Package
 ```swift
-.package(url: "https://github.com/RichYourMind/Neumorphism-Label.git")
+.package(url: "https://github.com/RichYourMind/ERStepperView.git")
 ```
 ## Usage
 Import ERStepperView package to your class.
